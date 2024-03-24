@@ -1,4 +1,4 @@
-<h1> Hello every, I'm Maksim </h1> [![codewars]([https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username](https://www.codewars.com/users/RichMan24/badges/micro)) 
+<h1> Hello every, I'm Maksim </h1> [![codewars](https://www.codewars.com/users/RichMan24/badges/micro)](https://www.codewars.com/users/RichMan24) 
 
 - 👋 Hi, I’m @Richman-24
 - 👀 I’m interested in ...
