@@ -1,5 +1,5 @@
 <h1> Hello every, I'm Maksim </h1>
-<h4> Web-developer on Python </h4> ![codewars](https://www.codewars.com/users/RichMan24/badges/micro)](https://www.codewars.com/users/RichMan24)
+<h4> Web-developer on Python </h4> ![](https://www.codewars.com/users/RichMan24/badges/micro)
 
 ![](https://www.codewars.com/users/RichMan24/badges/micro)
 
