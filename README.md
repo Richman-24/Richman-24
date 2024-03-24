@@ -1,5 +1,5 @@
-<h1> Hello every, I'm Maksim </h1>
-<h4> Web-developer on Python </h4>
+<h1 align="center">Hi there, I'm Hello every, I'm Maksim </a> 
+<h4 align="center"> Web-developer on Python </h4>
 
 ![](https://www.codewars.com/users/RichMan24/badges/large)
 
