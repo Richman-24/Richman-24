@@ -1,7 +1,7 @@
 <h4> Hello everyone, I'm Maksim</a> 
 Python web-developer since 2022 year.
   
-![](https://www.codewars.com/users/RichMan24/badges/large)
+![](https://www.codewars.com/users/RichMan24/badges/small)
 
 My tecknology stack:
 
