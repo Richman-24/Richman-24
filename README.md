@@ -6,7 +6,7 @@ Python web-developer since 2022 year.
 
 My tecknology stack:
 
-'python 3.7+' 'native SQL' 'pandas' 'numpy' 'beautiful soup'
+;;python 3.7+;; 'native SQL' 'pandas' 'numpy' 'beautiful soup'
 'aiogram 3' 'fast' 'api' 'keras' 'pytorch' 'requests' 'regex (:re)'
 'sqlite3' 'postgresql'
 
