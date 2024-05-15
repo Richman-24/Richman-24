@@ -10,8 +10,10 @@ Python web-developer since 2022 year.
 
 
 🛠️ My tecknology stack:
-+ python 3.7
++ python 3.7+
 + SQL(sqlite, postgresql)
++ Django
++ aiogram3
 
 <br>
 
