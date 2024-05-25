@@ -20,6 +20,8 @@ Python web-developer since 2022 year.
 ⭐ Resent projects
 + <a href="https://github.com/Richman-24/lazy_bitch_tg_bot">My telegram-bot bar assistant</a>
 + <a href="https://github.com/Richman-24/the_snake">The-snake game (training project)</a>
++ <a href="https://github.com/Richman-24/E-Commerse-dj">Django Coffee E-Commerce (training project) </a>
+
 <!--
 pandas numpy beautiful soup
 aiogram 3 fast api keras pytorch requests regex (:re)
