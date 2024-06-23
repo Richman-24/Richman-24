@@ -1,5 +1,5 @@
-<h3> Hello everyone, I'm Maksim </h3> 
-Python web-developer since 2022 year.
+<h3> Hello everyone, I'm Maxim </h3> 
+Python web-developer since 2022 year and now I am actively looking for a job.
 
 <hr>
 
@@ -11,16 +11,17 @@ Python web-developer since 2022 year.
 
 🛠️ My tecknology stack:
 + python 3.7+
-+ SQL(sqlite, postgresql)
-+ Django
-+ aiogram3
-
++ SQL, sqlite3, SQLAlchemy, postgresql
++ Django, Flask, selenium, unittest
++ aiogram3, telegramAPI
++ requests, numpy, pandas, regex
 <br>
 
 ⭐ Resent projects
-+ <a href="https://github.com/Richman-24/lazy_bitch_tg_bot">My telegram-bot bar assistant</a>
-+ <a href="https://github.com/Richman-24/the_snake">The-snake game </a>
++ <a href="https://github.com/Richman-24/lazy_bitch_tg_bot">Bar-library bot assistant</a>
++ <a href="https://github.com/Richman-24/the_snake">The-snake game (my first project full using OOP)</a>
 + <a href="https://github.com/Richman-24/E-Commerse-dj">Django Coffee E-Commerce </a>
++ <a href="https://github.com/Richman-24/RmAvitoParser">Avito parser using Selenium and BS4</a>
 
 <!--
 pandas numpy beautiful soup
