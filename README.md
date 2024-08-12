@@ -18,7 +18,7 @@ Python web-developer since 2022 year and now I am actively looking for a job.
 <br>
 
 ⭐ Resent projects
-+ <a href="https://github.com/Richman-24/lazy_bitch_tg_bot">Bar-library bot assistant</a>
+<!--+ <a href="https://github.com/Richman-24/lazy_bitch_tg_bot">Bar-library bot assistant</a> -->
 + <a href="https://github.com/Richman-24/the_snake">The-snake game (my first project full using OOP)</a>
 + <a href="https://github.com/Richman-24/E-Commerse-dj">Django Coffee E-Commerce </a>
 + <a href="https://github.com/Richman-24/RmAvitoParser">Avito parser using Selenium and BS4</a>
