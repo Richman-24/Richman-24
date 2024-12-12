@@ -19,9 +19,7 @@
 + docker
 <br>
 
-⭐ Resent projects
-<-- + <a href="https://github.com/Richman-24/Vi_Sommelier_Bot">Bar-library personal assistant telegram bot </a> -->
-<-- + <a href="https://github.com/Richman-24/the_snake">The-snake game (my first project full using OOP)</a> -->
+⭐ Resent projects:
 + <a href="https://github.com/Richman-24/Django_ecom_conferance_shop">Django e-commerce confere services shop</a>
 + <a href="https://github.com/Richman-24/E-Commerse-dj">Django Coffee E-Commerce </a>
 + <a href="https://github.com/Richman-24/RmAvitoParser">Avito parser using Selenium and BS4</a>
