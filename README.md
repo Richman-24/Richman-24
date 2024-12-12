@@ -1,6 +1,5 @@
-<h3> Hello everyone, I'm Maxim </h3> 
-Python web-developer since 2022 year and now I am actively looking for a job.
-
+<h3> Всем привет! </h3>
+<h4> Я Максим Дреев, веб разработчик с опытом работы в Python и JavaScript, увлеченный созданием веб-приложений, преимущественно на Django.</h4>
 <hr>
 
 ![codewars](https://www.codewars.com/users/RichMan24/badges/large)
@@ -9,26 +8,20 @@ Python web-developer since 2022 year and now I am actively looking for a job.
 </a>
 
 
-🛠️ My tecknology stack:
-+ python 3.7+
-+ SQL, sqlite3, SQLAlchemy, postgresql
-+ Django, Flask, selenium, unittest
-+ aiogram3, telegramAPI
-+ requests, numpy, pandas, regex
+🛠️ Мой технологический стэк:
++ Python, SQL, JS
++ Django, DRF, Flask, FastAPI
++ asyncio, aiohttp, RabbitMQ
++ sqlite3, SQLAlchemy, Postgresql, MongoDB  
++ aiogram3, TelegramAPI, PyTelegramBot  
++ requests, numpy, pandas
++ pytest, selenium
++ docker
 <br>
 
 ⭐ Resent projects
-+ <a href="https://github.com/Richman-24/Vi_Sommelier_Bot">Bar-library personal assistant telegram bot </a>
-+ <a href="https://github.com/Richman-24/the_snake">The-snake game (my first project full using OOP)</a>
+<-- + <a href="https://github.com/Richman-24/Vi_Sommelier_Bot">Bar-library personal assistant telegram bot </a> -->
+<-- + <a href="https://github.com/Richman-24/the_snake">The-snake game (my first project full using OOP)</a> -->
++ <a href="https://github.com/Richman-24/Django_ecom_conferance_shop">Django e-commerce confere services shop</a>
 + <a href="https://github.com/Richman-24/E-Commerse-dj">Django Coffee E-Commerce </a>
 + <a href="https://github.com/Richman-24/RmAvitoParser">Avito parser using Selenium and BS4</a>
-
-<!--
-pandas numpy beautiful soup
-aiogram 3 fast api keras pytorch requests regex (:re)
- -->
-
-<!---
-Richman-24/Richman-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
