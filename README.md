@@ -21,8 +21,11 @@
 
 ⭐ Недавние проекты:
 
-Разработал онлайн магазин услуг специалистов в сфере организации ивентов. Использовал Django и PosgresQL для бэка, нарисовал простенький фронт на HTML, CSS, разнообразил через jqury. 
-+ <a href="https://github.com/Richman-24/Django_ecom_conferance_shop">Django e-commerce confere services shop</a>
++ Разработал [онлайн магазин услуг специалистов в сфере организации ивентов](https://github.com/Richman-24/Django_ecom_conferance_shop).
+Использовал Django и PosgresQL для бэка, нарисовал простенький фронт на HTML, CSS, разнообразил через jquery, ajax. 
 
-Другой онлайн магазин, кофейная лавка. Основной функционал, заказы, корзины, работа с ключами сессии. Django, Postgresql, JS, Jquery, Ajax. 
-+ <a href="https://github.com/Richman-24/E-Commerse-dj">Django Coffee E-Commerce </a>
++ Разработал API для [кулинарной социальной сети](https://github.com/Richman-24/recipe_social_net), настроил контейнеризацию, сервер, CI\CD. 
+Использовал DRF, PostgresQL, gunicorn, nginx, docker.
+
++ Разработал [сайт для кофейной лавки](https://github.com/Richman-24/E-Commerse-dj) (по инструкции из курса по Django).
+Основной функционал, заказы, корзины, работа с ключами сессии. Django, Postgresql, JS, Jquery, Ajax.
