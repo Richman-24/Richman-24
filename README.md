@@ -3,10 +3,10 @@
 <hr>
 
 ![codewars](https://www.codewars.com/users/RichMan24/badges/large)
+
 <a href="https://leetcode.com/u/RichMan24/">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg"  height="40" style="max-width: 100%;" border="0">
 </a>
-
 
 🛠️ Мой технологический стэк:
 + Python, SQL, JS
@@ -19,7 +19,10 @@
 + docker
 <br>
 
-⭐ Resent projects:
+⭐ Недавние проекты:
+
+Разработал онлайн магазин услуг специалистов в сфере организации ивентов. Использовал Django и PosgresQL для бэка, нарисовал простенький фронт на HTML, CSS, разнообразил через jqury. 
 + <a href="https://github.com/Richman-24/Django_ecom_conferance_shop">Django e-commerce confere services shop</a>
+
+Другой онлайн магазин, кофейная лавка. Основной функционал, заказы, корзины, работа с ключами сессии. Django, Postgresql, JS, Jquery, Ajax. 
 + <a href="https://github.com/Richman-24/E-Commerse-dj">Django Coffee E-Commerce </a>
-+ <a href="https://github.com/Richman-24/RmAvitoParser">Avito parser using Selenium and BS4</a>
