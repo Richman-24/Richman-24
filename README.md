@@ -2,21 +2,23 @@
 <h4> Я Максим Дреев, веб разработчик с опытом работы в Python и JavaScript, увлеченный созданием веб-приложений, преимущественно на Django.</h4>
 <hr>
 
-![codewars](https://www.codewars.com/users/RichMan24/badges/large)
+<div style="display: flex; align-items: center;">
+  <a href="https://www.codewars.com/users/Richman-24">  
+    <img src="https://www.codewars.com/users/Richman-24/badges/large" alt="Codewars Badge" style="margin-right: 10px;">
+  </a>
+  <a href="https://leetcode.com/u/RichMan24/">
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" style="max-width: 100%;" border="0" alt="LeetCode Badge">
+  </a>
+</div>
 
-<a href="https://leetcode.com/u/RichMan24/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg"  height="40" style="max-width: 100%;" border="0">
-</a>
-
-🛠️ Мой технологический стэк:
-+ Python, SQL, JS
-+ Django, DRF, Flask, FastAPI
-+ asyncio, aiohttp, RabbitMQ
-+ sqlite3, SQLAlchemy, Postgresql, MongoDB  
-+ aiogram3, TelegramAPI, PyTelegramBot  
-+ requests, numpy, pandas
-+ pytest, selenium
-+ docker
+## 🛠️ Мой технологический стэк:
+- Языки программирования: Python, SQL, JavaScript (начальный уровень)
+- Фреймворки: Django + DRF, Flask, FastAPI, Aiogram3
+- Базы данных: PostgreSQL, SQLite, SQLAlchemy
+- Инструменты: Docker, Git, Postman, Nginx, Gunicorn
+- Методологии: ООП, MVC, REST API, Асинхронное программирование
+- Тестирование: Pytest, Selenium
+- Дополнительно: HTML, CSS, Bootstrap, Jquery
 <br>
 
 ⭐ Недавние проекты:
