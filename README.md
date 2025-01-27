@@ -28,7 +28,7 @@
 + [Онлайн магазин услуг специалистов в сфере организации ивентов](https://github.com/Richman-24/Django_ecom_conferance_shop).
 Использовал Django и PosgresQL для бэка, нарисовал простенький фронт на HTML, CSS, разнообразил через jquery, ajax. 
 
-+ [RESTfull API кулинарной социальной сети](https://github.com/Richman-24/recipe_social_net), настроил контейнеризацию, сервер, CI\CD. 
++ [RESTfull API. Кулинарная социальная сеть](https://github.com/Richman-24/recipe_social_net), настроил контейнеризацию, сервер, CI\CD. 
 Использовал DRF, PostgresQL, gunicorn, nginx, docker.
 
 + [Сайт для кофейной лавки](https://github.com/Richman-24/E-Commerse-dj) (по инструкции из курса по Django).
