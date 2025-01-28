@@ -14,8 +14,9 @@
 ## 🛠️ Мой технологический стэк:
 - Языки программирования: Python, SQL, JavaScript (начальный уровень)
 - Фреймворки: Django + DRF, Flask, FastAPI, Aiogram3
-- Базы данных: PostgreSQL, SQLite, SQLAlchemy
-- Инструменты: Docker, Git, Postman, Nginx, Gunicorn
+- ORM системы: SQLAlchemy, Django-ORM
+- Базы данных: PostgreSQL, SQLite
+- Инструменты: Docker, Git, Postman, Nginx, Gunicorn, alimbic, PyJWT
 - Методологии: ООП, MVC, REST API, Асинхронное программирование
 - Тестирование: Pytest, Selenium
 - Дополнительно: HTML, CSS, Bootstrap, Jquery
