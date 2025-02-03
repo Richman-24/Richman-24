@@ -16,8 +16,8 @@
 - Фреймворки: Django + DRF, Flask, FastAPI, Aiogram3
 - ORM системы: SQLAlchemy, Django-ORM
 - Базы данных: PostgreSQL, SQLite
-- Инструменты: Docker, Git, Postman, Nginx, Gunicorn, alimbic, PyJWT
-- Методологии: ООП, MVC, REST API, Асинхронное программирование
+- Инструменты: Docker, Git, Postman, Nginx, Gunicorn, alembic, PyJWT
+- Методологии: ООП, MVC, REST API, Асинхронное программирование, микросервисная архитектура, gRPC
 - Тестирование: Pytest, Selenium
 - Дополнительно: HTML, CSS, Bootstrap, Jquery
 <br>
