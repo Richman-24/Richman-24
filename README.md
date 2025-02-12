@@ -24,13 +24,17 @@
 
 ⭐ Недавние проекты:
 + [RESTfull API. Асинхронный HTTP-сервер для получения информации о погоде с использованием Open-Meteo API](https://github.com/Richman-24/FastAPI_weather_service)<br>
-Использовал FastAPI, SQLAlchemy, SQLite3, httpx + Open-Meteo API, APSheduler, pytest, postman.
+Стэк: FastAPI, SQLAlchemy, SQLite3, httpx + Open-Meteo API, APSheduler, pytest, postman.
 
 + [Онлайн магазин услуг специалистов в сфере организации ивентов](https://github.com/Richman-24/Django_ecom_conferance_shop).<br>
-Использовал Django и PosgresQL для бэка, нарисовал простенький фронт на HTML, CSS, разнообразил через jquery, ajax. 
+Стэк: Django и PosgresQL для бэка, нарисовал простенький фронт на HTML, CSS, разнообразил через jquery, ajax. 
 
 + [RESTfull API. Кулинарная социальная сеть](https://github.com/Richman-24/recipe_social_net), настроил контейнеризацию, сервер, CI\CD.<br>
-Использовал DRF, PostgresQL, gunicorn, nginx, docker.
+Стэк: DRF, PostgresQL, gunicorn, nginx, docker.
+
++ [Асинхронный REST API сервис по контролю за расходами, интегрированный с телеграм-ботом](https://github.com/Richman-24/MyWalletAPI)<br>
+Стэк: fastapi, sqlalchemy, sqlite3, aiohttp, pydantic
 
 + [Сайт для кофейной лавки](https://github.com/Richman-24/E-Commerse-dj) (по инструкции из курса по Django).<br>
-Основной функционал, заказы, корзины, работа с ключами сессии. Django, Postgresql, JS, Jquery, Ajax.
+Основной функционал, заказы, корзины, работа с ключами сессии.<br>
+Стэк: Django, Postgresql, JS, Jquery, Ajax.
