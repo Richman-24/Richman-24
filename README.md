@@ -12,14 +12,14 @@
 </div>
 
 ## 🛠️ Мой технологический стэк:
-- Языки программирования: Python, SQL, JavaScript (начальный уровень)
-- Фреймворки: Django + DRF, Flask, FastAPI, Aiogram3
-- ORM системы: SQLAlchemy, Django-ORM
-- Базы данных: PostgreSQL, SQLite
-- Инструменты: Docker, Git, Postman, Nginx, Gunicorn, alembic, PyJWT
+- Языки программирования: Python, SQL
+- Фреймворки: Django + DRF, Flask, FastAPI, Aiogram3, grpc
+- СУБД и ORM: sqlite, postgresql, mysql, oracle database, SQLAlchemy, Django-ORM, peewee
+- Инструменты и библиотеки: celery, alembic, pydantic, numpy, pandas, bs4, tkinter, pyqt, jinja, requests
+- Инструменты разработки: git, github, git actions, docker, nginx, redis
 - Методологии: ООП, MVC, REST API, Асинхронное программирование, микросервисная архитектура, gRPC
-- Тестирование: Pytest, Selenium
-- Дополнительно: HTML, CSS, Bootstrap, Jquery
+- Тестирование: Pytest, Selenium, unittest, postman
+- Дополнительно: HTML, CSS, Bootstrap, Jquery, шаблоны разработки,
 <br>
 
 ⭐ Недавние проекты:
